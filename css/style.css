@@ -1,0 +1,6 @@
+/* Add the blur effect */
+.blur{
+  filter: blur(81px);
+  -webkit-filter: blur(81px);
+    
+}
